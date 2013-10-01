@@ -5,11 +5,11 @@
 // var game = new Game(player1, player2);
 // console.log(game.winner());
 function addMessage() {
-	document.getElementById("message").innerHTML = "My Message"
+	document.getElementById("message").innerHTML = "Hello there !"
 }
 
 window.onload = addMessage;
 
-$("input").submit(function() {
+// $("input").submit(function() {
 	
-})
+// })
